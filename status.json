@@ -1,1 +1,1 @@
-{ "status": "degraded", "message": "Sidekick is testing a degraded service warning - nothing is actually wrong." } 
+{ "status": "ok", "message": null } 
